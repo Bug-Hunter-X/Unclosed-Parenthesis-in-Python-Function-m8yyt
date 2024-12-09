@@ -1,0 +1,1 @@
+This repository demonstrates a common Python coding error: forgetting to close parentheses in a function definition. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides the corrected version.  Understanding this error is crucial for writing robust and functional Python code.
